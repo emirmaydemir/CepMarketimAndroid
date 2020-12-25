@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175820722510",
+    "firebase_url": "https://cepmarketim-f0845.firebaseio.com",
+    "project_id": "cepmarketim-f0845",
+    "storage_bucket": "cepmarketim-f0845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175820722510:android:47495912d5a82ba3f6ce1f",
+        "android_client_info": {
+          "package_name": "com.example.cepmarketim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175820722510-agdll6kgd8rdr8dgsge6ml8734hcno7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkEGKKOK25dPVsbtcTXnew0wHYpVcBk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175820722510-agdll6kgd8rdr8dgsge6ml8734hcno7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
